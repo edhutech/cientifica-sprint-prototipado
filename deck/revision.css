@@ -1,0 +1,29 @@
+.canvas.section-blue{background:#00358e;color:#fff}
+.section-blue .title{color:#fff}
+.section-intro .body-content{display:flex;align-items:center;justify-content:space-between;gap:3cqw}
+.section-intro .title{width:43cqw;font-size:clamp(32px,4.1667cqw,80px);line-height:1.2}
+.section-intro .content{margin:0;width:43cqw}
+.slide .section-art{width:100%;height:32cqw;max-height:none;object-fit:contain;border-radius:0}
+.studio-intro .section-art{height:24cqw}
+.activity-orange{background:#f68d20;color:#00275f}
+.activity-orange .title,.activity-orange .takeaway,.activity-orange .task-label,.activity-orange .time-block{color:#00275f}
+.activity-orange.section-intro .title{width:75cqw;font-size:clamp(38px,5.2cqw,100px)}
+.activity-orange.section-intro .content{display:none}
+.activity-orange.team .title{font-size:clamp(26px,3cqw,58px)}
+.individual-steps{margin-top:2.5cqw;padding-left:1.5em;display:grid;gap:1.5cqw;max-width:80cqw}
+.experience li{display:flex;align-items:center;gap:1cqw}
+.slide .role-logo{width:3.1cqw;height:3.1cqw;object-fit:contain;max-height:none;flex:none;border-radius:0}
+.experience li:nth-child(2) .role-logo{transform:scale(1.9);clip-path:inset(25%)}
+.experience li:nth-child(3) .role-logo{transform:scale(.72)}
+.experience{top:9.4cqw;gap:1cqw}
+.experience li{font-size:clamp(18px,1.55cqw,30px)}
+.contact-links{display:grid;gap:1.5cqw}
+.contact-links a{color:#00358e;font-size:clamp(22px,2.3cqw,44px);text-decoration:none;display:flex;align-items:center;gap:1cqw;width:fit-content}
+.contact-links a:hover{text-decoration:underline}
+.linkedin-icon{background:#0a66c2;color:white;font-family:Arial,sans-serif;font-weight:bold;padding:.05em .2em;border-radius:.1em;font-size:.8em}
+.controls.on-blue{background:#00358e;color:#fff}
+.controls.on-orange{background:#f68d20;color:#00275f}
+.contact-icon{width:1.1em;height:1.1em;flex:none}
+.contact-links .linkedin-icon{box-sizing:border-box;width:1.375em;text-align:center;flex:none}
+.closing .title,.closing .contact-links{max-width:55cqw}
+.slide .closing-portrait{position:absolute;right:2cqw;top:50%;transform:translateY(-50%);width:25cqw;height:33.3333cqw;max-height:none;object-fit:contain;background:#272733;border-radius:8px}

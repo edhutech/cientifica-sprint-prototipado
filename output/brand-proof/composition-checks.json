@@ -1,0 +1,677 @@
+{
+  "browser": "Chromium 155.0.8059.39 Built from source for Fedora release 44 (Forty Four)",
+  "method": "CDP, deviceScaleFactor=1, offline network, fonts.ready and image.decode before capture",
+  "errors": [],
+  "results": [
+    {
+      "layout": "A",
+      "screenshot": "layout-a-1920x1080.png",
+      "pass": true,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "text": [
+        {
+          "id": "cover-title",
+          "text": "PrototipadoDigital",
+          "box": {
+            "x": 108,
+            "y": 421.453125,
+            "width": 807.125,
+            "height": 269.59375,
+            "right": 915.125,
+            "bottom": 691.046875
+          },
+          "fontSize": "112px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "speaker-label",
+          "text": "Ponente:",
+          "box": {
+            "x": 145.09375,
+            "y": 765.328125,
+            "width": 770.03125,
+            "height": 41.21875,
+            "right": 915.125,
+            "bottom": 806.546875
+          },
+          "fontSize": "34.36px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "speaker-name",
+          "text": "Edhú Nuñez Alvarado",
+          "box": {
+            "x": 145.09375,
+            "y": 810.53125,
+            "width": 770.03125,
+            "height": 41.21875,
+            "right": 915.125,
+            "bottom": 851.75
+          },
+          "fontSize": "34.36px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        }
+      ],
+      "elements": {
+        "cover-title": {
+          "x": 108,
+          "y": 421.453125,
+          "width": 807.125,
+          "height": 269.59375,
+          "right": 915.125,
+          "bottom": 691.046875
+        },
+        "speaker": {
+          "x": 108,
+          "y": 763.5625,
+          "width": 807.125,
+          "height": 89.96875,
+          "right": 915.125,
+          "bottom": 853.53125
+        },
+        "speaker-label": {
+          "x": 145.09375,
+          "y": 765.328125,
+          "width": 770.03125,
+          "height": 41.21875,
+          "right": 915.125,
+          "bottom": 806.546875
+        },
+        "speaker-name": {
+          "x": 145.09375,
+          "y": 810.53125,
+          "width": 770.03125,
+          "height": 41.21875,
+          "right": 915.125,
+          "bottom": 851.75
+        }
+      },
+      "fontsLoaded": true,
+      "images": [
+        {
+          "loaded": true,
+          "width": 3072,
+          "height": 1728,
+          "embedded": true
+        }
+      ],
+      "collisions": [],
+      "reservedCollisions": [],
+      "outOfCanvas": [],
+      "pageOverflow": false
+    },
+    {
+      "layout": "A",
+      "screenshot": "layout-a-1366x768.png",
+      "pass": true,
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "canvas": {
+        "x": 0.328125,
+        "y": 0,
+        "width": 1365.328125,
+        "height": 767.984375,
+        "right": 1365.65625,
+        "bottom": 767.984375
+      },
+      "text": [
+        {
+          "id": "cover-title",
+          "text": "PrototipadoDigital",
+          "box": {
+            "x": 77.125,
+            "y": 299.6875,
+            "width": 573.953125,
+            "height": 191.6875,
+            "right": 651.078125,
+            "bottom": 491.375
+          },
+          "fontSize": "79.6441px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "speaker-label",
+          "text": "Ponente:",
+          "box": {
+            "x": 102.828125,
+            "y": 544.21875,
+            "width": 548.25,
+            "height": 29.3125,
+            "right": 651.078125,
+            "bottom": 573.53125
+          },
+          "fontSize": "24.4337px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "speaker-name",
+          "text": "Edhú Nuñez Alvarado",
+          "box": {
+            "x": 102.828125,
+            "y": 576.375,
+            "width": 548.25,
+            "height": 29.3125,
+            "right": 651.078125,
+            "bottom": 605.6875
+          },
+          "fontSize": "24.4337px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        }
+      ],
+      "elements": {
+        "cover-title": {
+          "x": 77.125,
+          "y": 299.6875,
+          "width": 573.953125,
+          "height": 191.6875,
+          "right": 651.078125,
+          "bottom": 491.375
+        },
+        "speaker": {
+          "x": 77.125,
+          "y": 542.96875,
+          "width": 573.953125,
+          "height": 63.96875,
+          "right": 651.078125,
+          "bottom": 606.9375
+        },
+        "speaker-label": {
+          "x": 102.828125,
+          "y": 544.21875,
+          "width": 548.25,
+          "height": 29.3125,
+          "right": 651.078125,
+          "bottom": 573.53125
+        },
+        "speaker-name": {
+          "x": 102.828125,
+          "y": 576.375,
+          "width": 548.25,
+          "height": 29.3125,
+          "right": 651.078125,
+          "bottom": 605.6875
+        }
+      },
+      "fontsLoaded": true,
+      "images": [
+        {
+          "loaded": true,
+          "width": 3072,
+          "height": 1728,
+          "embedded": true
+        }
+      ],
+      "collisions": [],
+      "reservedCollisions": [],
+      "outOfCanvas": [],
+      "pageOverflow": false
+    },
+    {
+      "layout": "C",
+      "screenshot": "layout-c-1920x1080.png",
+      "pass": true,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "text": [
+        {
+          "id": "education-title",
+          "text": "Título de la diapositiva",
+          "box": {
+            "x": 108,
+            "y": 269,
+            "width": 1704,
+            "height": 73.59375,
+            "right": 1812,
+            "bottom": 342.59375
+          },
+          "fontSize": "64px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "sample-heading",
+          "text": "Texto HTML editable",
+          "box": {
+            "x": 108,
+            "y": 400.578125,
+            "width": 816,
+            "height": 50.390625,
+            "right": 924,
+            "bottom": 450.96875
+          },
+          "fontSize": "42px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "sample-body",
+          "text": "Muestra técnica para comprobar tipografía, contraste y espaciado.",
+          "box": {
+            "x": 108,
+            "y": 486.96875,
+            "width": 816,
+            "height": 104.375,
+            "right": 924,
+            "bottom": 591.34375
+          },
+          "fontSize": "36px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "sample-note",
+          "text": "El contenido del taller se incorporará después.",
+          "box": {
+            "x": 108,
+            "y": 627.34375,
+            "width": 816,
+            "height": 104.375,
+            "right": 924,
+            "bottom": 731.71875
+          },
+          "fontSize": "36px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "resource-label",
+          "text": "Área de recurso visual",
+          "box": {
+            "x": 1207.375,
+            "y": 564.28125,
+            "width": 393.234375,
+            "height": 52.1875,
+            "right": 1600.609375,
+            "bottom": 616.46875
+          },
+          "fontSize": "36px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "resource-note",
+          "text": "Marcador de prueba",
+          "box": {
+            "x": 1240.5,
+            "y": 640.46875,
+            "width": 326.984375,
+            "height": 46.390625,
+            "right": 1567.484375,
+            "bottom": 686.859375
+          },
+          "fontSize": "32px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        }
+      ],
+      "elements": {
+        "institutional-header": {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 215,
+          "right": 1920,
+          "bottom": 215
+        },
+        "sprint-logo": {
+          "x": 108,
+          "y": 41.984375,
+          "width": 286.3125,
+          "height": 136.75,
+          "right": 394.3125,
+          "bottom": 178.734375
+        },
+        "institutional-signature": {
+          "x": 1180.734375,
+          "y": 69.828125,
+          "width": 631.25,
+          "height": 81.078125,
+          "right": 1811.984375,
+          "bottom": 150.90625
+        },
+        "body-content": {
+          "x": 108,
+          "y": 269,
+          "width": 1704,
+          "height": 739,
+          "right": 1812,
+          "bottom": 1008
+        },
+        "education-title": {
+          "x": 108,
+          "y": 269,
+          "width": 1704,
+          "height": 73.59375,
+          "right": 1812,
+          "bottom": 342.59375
+        },
+        "sample-heading": {
+          "x": 108,
+          "y": 400.578125,
+          "width": 816,
+          "height": 50.390625,
+          "right": 924,
+          "bottom": 450.96875
+        },
+        "sample-body": {
+          "x": 108,
+          "y": 486.96875,
+          "width": 816,
+          "height": 104.375,
+          "right": 924,
+          "bottom": 591.34375
+        },
+        "sample-note": {
+          "x": 108,
+          "y": 627.34375,
+          "width": 816,
+          "height": 104.375,
+          "right": 924,
+          "bottom": 731.71875
+        },
+        "resource-specimen": {
+          "x": 996,
+          "y": 400.578125,
+          "width": 816,
+          "height": 450,
+          "right": 1812,
+          "bottom": 850.578125
+        },
+        "resource-label": {
+          "x": 1207.375,
+          "y": 564.28125,
+          "width": 393.234375,
+          "height": 52.1875,
+          "right": 1600.609375,
+          "bottom": 616.46875
+        },
+        "resource-note": {
+          "x": 1240.5,
+          "y": 640.46875,
+          "width": 326.984375,
+          "height": 46.390625,
+          "right": 1567.484375,
+          "bottom": 686.859375
+        }
+      },
+      "fontsLoaded": true,
+      "images": [
+        {
+          "loaded": true,
+          "width": 3072,
+          "height": 1728,
+          "embedded": true
+        },
+        {
+          "loaded": true,
+          "width": 623,
+          "height": 831,
+          "embedded": true
+        },
+        {
+          "loaded": true,
+          "width": 1417,
+          "height": 182,
+          "embedded": true
+        }
+      ],
+      "collisions": [],
+      "reservedCollisions": [],
+      "outOfCanvas": [],
+      "pageOverflow": false
+    },
+    {
+      "layout": "C",
+      "screenshot": "layout-c-1366x768.png",
+      "pass": true,
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "canvas": {
+        "x": 0.328125,
+        "y": 0,
+        "width": 1365.328125,
+        "height": 767.984375,
+        "right": 1365.65625,
+        "bottom": 767.984375
+      },
+      "text": [
+        {
+          "id": "education-title",
+          "text": "Título de la diapositiva",
+          "box": {
+            "x": 77.125,
+            "y": 191.28125,
+            "width": 1211.734375,
+            "height": 52.328125,
+            "right": 1288.859375,
+            "bottom": 243.609375
+          },
+          "fontSize": "45.5109px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "sample-heading",
+          "text": "Texto HTML editable",
+          "box": {
+            "x": 77.125,
+            "y": 284.84375,
+            "width": 580.265625,
+            "height": 35.828125,
+            "right": 657.390625,
+            "bottom": 320.671875
+          },
+          "fontSize": "29.8666px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "sample-body",
+          "text": "Muestra técnica para comprobar tipografía, contraste y espaciado.",
+          "box": {
+            "x": 77.125,
+            "y": 346.265625,
+            "width": 580.265625,
+            "height": 74.21875,
+            "right": 657.390625,
+            "bottom": 420.484375
+          },
+          "fontSize": "25.5999px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "sample-note",
+          "text": "El contenido del taller se incorporará después.",
+          "box": {
+            "x": 77.125,
+            "y": 446.078125,
+            "width": 580.265625,
+            "height": 74.21875,
+            "right": 657.390625,
+            "bottom": 520.296875
+          },
+          "fontSize": "25.5999px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "resource-label",
+          "text": "Área de recurso visual",
+          "box": {
+            "x": 859.015625,
+            "y": 401.25,
+            "width": 279.390625,
+            "height": 37.109375,
+            "right": 1138.40625,
+            "bottom": 438.359375
+          },
+          "fontSize": "25.5999px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        },
+        {
+          "id": "resource-note",
+          "text": "Marcador de prueba",
+          "box": {
+            "x": 882.484375,
+            "y": 455.421875,
+            "width": 232.46875,
+            "height": 32.984375,
+            "right": 1114.953125,
+            "bottom": 488.40625
+          },
+          "fontSize": "22.7555px",
+          "fontFamily": "\"Proof Montserrat\", sans-serif",
+          "overflow": false
+        }
+      ],
+      "elements": {
+        "institutional-header": {
+          "x": 0.328125,
+          "y": 0,
+          "width": 1365.328125,
+          "height": 152.875,
+          "right": 1365.65625,
+          "bottom": 152.875
+        },
+        "sprint-logo": {
+          "x": 77.125,
+          "y": 29.84375,
+          "width": 203.59375,
+          "height": 97.234375,
+          "right": 280.71875,
+          "bottom": 127.078125
+        },
+        "institutional-signature": {
+          "x": 839.953125,
+          "y": 49.640625,
+          "width": 448.890625,
+          "height": 57.640625,
+          "right": 1288.84375,
+          "bottom": 107.28125
+        },
+        "body-content": {
+          "x": 77.125,
+          "y": 191.28125,
+          "width": 1211.734375,
+          "height": 525.515625,
+          "right": 1288.859375,
+          "bottom": 716.796875
+        },
+        "education-title": {
+          "x": 77.125,
+          "y": 191.28125,
+          "width": 1211.734375,
+          "height": 52.328125,
+          "right": 1288.859375,
+          "bottom": 243.609375
+        },
+        "sample-heading": {
+          "x": 77.125,
+          "y": 284.84375,
+          "width": 580.265625,
+          "height": 35.828125,
+          "right": 657.390625,
+          "bottom": 320.671875
+        },
+        "sample-body": {
+          "x": 77.125,
+          "y": 346.265625,
+          "width": 580.265625,
+          "height": 74.21875,
+          "right": 657.390625,
+          "bottom": 420.484375
+        },
+        "sample-note": {
+          "x": 77.125,
+          "y": 446.078125,
+          "width": 580.265625,
+          "height": 74.21875,
+          "right": 657.390625,
+          "bottom": 520.296875
+        },
+        "resource-specimen": {
+          "x": 708.578125,
+          "y": 284.84375,
+          "width": 580.28125,
+          "height": 319.984375,
+          "right": 1288.859375,
+          "bottom": 604.828125
+        },
+        "resource-label": {
+          "x": 859.015625,
+          "y": 401.25,
+          "width": 279.390625,
+          "height": 37.109375,
+          "right": 1138.40625,
+          "bottom": 438.359375
+        },
+        "resource-note": {
+          "x": 882.484375,
+          "y": 455.421875,
+          "width": 232.46875,
+          "height": 32.984375,
+          "right": 1114.953125,
+          "bottom": 488.40625
+        }
+      },
+      "fontsLoaded": true,
+      "images": [
+        {
+          "loaded": true,
+          "width": 3072,
+          "height": 1728,
+          "embedded": true
+        },
+        {
+          "loaded": true,
+          "width": 623,
+          "height": 831,
+          "embedded": true
+        },
+        {
+          "loaded": true,
+          "width": 1417,
+          "height": 182,
+          "embedded": true
+        }
+      ],
+      "collisions": [],
+      "reservedCollisions": [],
+      "outOfCanvas": [],
+      "pageOverflow": false
+    }
+  ]
+}

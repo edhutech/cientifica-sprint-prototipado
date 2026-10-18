@@ -1,0 +1,526 @@
+{
+  "source": "sources/Copy of PPT Plantila - Científica Sprint.pptx",
+  "source_sha256": "1bed81e8e4c05aee049221e16f72208922f7b6bd308a883e1ffcebc9e3fdba36",
+  "assets": [
+    {
+      "source_part": "ppt/fonts/font11.fntdata",
+      "path": "assets/institutional/fonts/font11.fntdata",
+      "bytes": 138448,
+      "sha256": "99947ebfc2d0117cdc378747c0e65bb74293f1bceabe5a93ccf9f844701774c7",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/presentation.xml",
+          "relationship": "rId11",
+          "element": "regular"
+        }
+      ]
+    },
+    {
+      "source_part": "ppt/fonts/font12.fntdata",
+      "path": "assets/institutional/fonts/font12.fntdata",
+      "bytes": 135724,
+      "sha256": "125833a41c7e0ba18fc667b5a0b03f5783cc50eff701a24f3a0b7a76275bdecb",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/presentation.xml",
+          "relationship": "rId12",
+          "element": "regular"
+        }
+      ]
+    },
+    {
+      "source_part": "ppt/media/image1.png",
+      "path": "assets/institutional/originals/image1.png",
+      "bytes": 2846840,
+      "sha256": "e15b1a03a71a436bab24fc19c8f00ab95a9567bd05fbc667307d8858fd07582f",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide1.xml",
+          "relationship": "rId2",
+          "element": "blip"
+        }
+      ],
+      "width": 3072,
+      "height": 1728,
+      "mode": "RGBA",
+      "decode_ok": true
+    },
+    {
+      "source_part": "ppt/media/image2.png",
+      "path": "assets/institutional/originals/image2.png",
+      "bytes": 1191633,
+      "sha256": "52aa0ce964a0026fbccd0ed51d96fde54ad8a429f5c6893f715d4f227cd3ba8f",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide2.xml",
+          "relationship": "rId2",
+          "element": "blip"
+        }
+      ],
+      "width": 3072,
+      "height": 1728,
+      "mode": "RGBA",
+      "decode_ok": true
+    },
+    {
+      "source_part": "ppt/media/image3.png",
+      "path": "assets/institutional/originals/image3.png",
+      "bytes": 6771679,
+      "sha256": "cfb42735466de89d1d56280a8a5c31f603d428201508ba3f0946f821b4013bc2",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide3.xml",
+          "relationship": "rId2",
+          "element": "blip"
+        }
+      ],
+      "width": 3072,
+      "height": 1728,
+      "mode": "RGBA",
+      "decode_ok": true
+    },
+    {
+      "source_part": "ppt/media/image4.png",
+      "path": "assets/institutional/originals/image4.png",
+      "bytes": 55570,
+      "sha256": "551d4f7550befc90d580064ed2076e87257d816c166be483a29a82f922a0bbd5",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide3.xml",
+          "relationship": "rId3",
+          "element": "blip"
+        }
+      ],
+      "width": 623,
+      "height": 831,
+      "mode": "RGBA",
+      "decode_ok": true
+    },
+    {
+      "source_part": "ppt/media/image5.png",
+      "path": "assets/institutional/originals/image5.png",
+      "bytes": 32404,
+      "sha256": "6eea2eb07d53b7b388ddd5aee605cb94fd55bad95f5c7a9b43b56291d1e26935",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide3.xml",
+          "relationship": "rId4",
+          "element": "blip"
+        }
+      ],
+      "width": 1417,
+      "height": 182,
+      "mode": "RGBA",
+      "decode_ok": true
+    },
+    {
+      "source_part": "ppt/media/image6.svg",
+      "path": "assets/institutional/originals/image6.svg",
+      "bytes": 13746,
+      "sha256": "a4bf886537925529b248c2470fe03b17e21d569f6de1cbfefc09f4be14e24b9d",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide3.xml",
+          "relationship": "rId5",
+          "element": "svgBlip"
+        }
+      ],
+      "svg_attributes": {
+        "contentScriptType": "text/ecmascript",
+        "fill": "#000000",
+        "width": "1417",
+        "zoomAndPan": "magnify",
+        "contentStyleType": "text/css",
+        "viewBox": "0 0 1417.32 181.92",
+        "height": "182",
+        "data-name": "Capa 2",
+        "preserveAspectRatio": "xMidYMid meet",
+        "version": "1"
+      },
+      "element_types": [
+        "g",
+        "path",
+        "svg"
+      ]
+    },
+    {
+      "source_part": "ppt/media/image7.png",
+      "path": "assets/institutional/originals/image7.png",
+      "bytes": 2001360,
+      "sha256": "6c7b3fae1b56ff2e160e7627b54cb2979fbabdd6e7450bf99628bea16326b448",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide4.xml",
+          "relationship": "rId2",
+          "element": "blip"
+        }
+      ],
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGB",
+      "decode_ok": true
+    },
+    {
+      "source_part": "ppt/media/image8.png",
+      "path": "assets/institutional/originals/image8.png",
+      "bytes": 1438076,
+      "sha256": "a8dff8105db648fb609bf009946768e2454473a7169e1f22452c159b3331cee5",
+      "byte_identical": true,
+      "uses": [
+        {
+          "part": "ppt/slides/slide5.xml",
+          "relationship": "rId2",
+          "element": "blip"
+        }
+      ],
+      "width": 3072,
+      "height": 1728,
+      "mode": "RGBA",
+      "decode_ok": true
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "part": "ppt/slides/slide1.xml",
+      "relationships": {
+        "rId1": {
+          "target": "ppt/slideLayouts/slideLayout7.xml",
+          "type": "slideLayout",
+          "external": false
+        },
+        "rId2": {
+          "target": "ppt/media/image1.png",
+          "type": "image",
+          "external": false
+        }
+      },
+      "shapes": [
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 2",
+            "id": "2"
+          },
+          "group_transforms": [],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 2\" id=\"2\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"18288000\" cy=\"10287000\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"10287000\" w=\"18288000\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"10287000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"10287000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId2\" /><ns1:stretch><ns1:fillRect l=\"0\" t=\"0\" r=\"0\" b=\"0\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        }
+      ],
+      "transition": null
+    },
+    {
+      "number": 2,
+      "part": "ppt/slides/slide2.xml",
+      "relationships": {
+        "rId1": {
+          "target": "ppt/slideLayouts/slideLayout7.xml",
+          "type": "slideLayout",
+          "external": false
+        },
+        "rId2": {
+          "target": "ppt/media/image2.png",
+          "type": "image",
+          "external": false
+        }
+      },
+      "shapes": [
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 2",
+            "id": "2"
+          },
+          "group_transforms": [],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 2\" id=\"2\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"18288000\" cy=\"10287000\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"10287000\" w=\"18288000\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"10287000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"10287000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId2\" /><ns1:stretch><ns1:fillRect l=\"0\" t=\"0\" r=\"0\" b=\"0\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 4",
+            "id": "4"
+          },
+          "group_transforms": [
+            "<ns0:xfrm xmlns:ns0=\"http://schemas.openxmlformats.org/drawingml/2006/main\" rot=\"0\"><ns0:off x=\"1028700\" y=\"7273021\" /><ns0:ext cx=\"142875\" cy=\"856998\" /><ns0:chOff x=\"0\" y=\"0\" /><ns0:chExt cx=\"37630\" cy=\"225711\" /></ns0:xfrm>"
+          ],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 4\" id=\"4\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"37630\" cy=\"225711\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"225711\" w=\"37630\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"37630\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"37630\" y=\"225711\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"225711\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:solidFill><ns1:srgbClr val=\"F68D20\" /></ns1:solidFill></ns0:spPr></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 5",
+            "id": "5"
+          },
+          "group_transforms": [
+            "<ns0:xfrm xmlns:ns0=\"http://schemas.openxmlformats.org/drawingml/2006/main\" rot=\"0\"><ns0:off x=\"1028700\" y=\"7273021\" /><ns0:ext cx=\"142875\" cy=\"856998\" /><ns0:chOff x=\"0\" y=\"0\" /><ns0:chExt cx=\"37630\" cy=\"225711\" /></ns0:xfrm>"
+          ],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 5\" id=\"5\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"0\" y=\"-19050\" /><ns1:ext cx=\"37630\" cy=\"244761\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"ctr\" rtlCol=\"false\" tIns=\"50800\" lIns=\"50800\" bIns=\"50800\" rIns=\"50800\" /><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"ctr\"><ns1:lnSpc><ns1:spcPts val=\"3221\" /></ns1:lnSpc></ns1:pPr></ns1:p></ns0:txBody></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 6",
+            "id": "6"
+          },
+          "group_transforms": [],
+          "text": [
+            "Ponente:",
+            "Nombre del Ponente"
+          ],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 6\" id=\"6\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm rot=\"0\"><ns1:off x=\"1379454\" y=\"7290604\" /><ns1:ext cx=\"3532791\" cy=\"802783\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" rtlCol=\"false\" tIns=\"0\" lIns=\"0\" bIns=\"0\" rIns=\"0\"><ns1:spAutoFit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"3221\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"2577\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham\" /><ns1:ea typeface=\"Gotham\" /><ns1:cs typeface=\"Gotham\" /><ns1:sym typeface=\"Gotham\" /></ns1:rPr><ns1:t>Ponente:</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"3221\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"2577\" b=\"true\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham Bold\" /><ns1:ea typeface=\"Gotham Bold\" /><ns1:cs typeface=\"Gotham Bold\" /><ns1:sym typeface=\"Gotham Bold\" /></ns1:rPr><ns1:t>Nombre del Ponente</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 7",
+            "id": "7"
+          },
+          "group_transforms": [],
+          "text": [
+            "Sesión #00"
+          ],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 7\" id=\"7\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm rot=\"0\"><ns1:off x=\"1498985\" y=\"2396704\" /><ns1:ext cx=\"3236313\" cy=\"683300\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" rtlCol=\"false\" tIns=\"0\" lIns=\"0\" bIns=\"0\" rIns=\"0\"><ns1:spAutoFit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"5412\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"4329\" b=\"true\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham Bold\" /><ns1:ea typeface=\"Gotham Bold\" /><ns1:cs typeface=\"Gotham Bold\" /><ns1:sym typeface=\"Gotham Bold\" /></ns1:rPr><ns1:t>Sesión #00</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 8",
+            "id": "8"
+          },
+          "group_transforms": [],
+          "text": [
+            "Título de la",
+            "ponencia"
+          ],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 8\" id=\"8\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm rot=\"0\"><ns1:off x=\"1028700\" y=\"4014459\" /><ns1:ext cx=\"7687866\" cy=\"2628907\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" rtlCol=\"false\" tIns=\"0\" lIns=\"0\" bIns=\"0\" rIns=\"0\"><ns1:spAutoFit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"9900\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"11000\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham\" /><ns1:ea typeface=\"Gotham\" /><ns1:cs typeface=\"Gotham\" /><ns1:sym typeface=\"Gotham\" /></ns1:rPr><ns1:t>Título de la</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"9900\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"11000\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham\" /><ns1:ea typeface=\"Gotham\" /><ns1:cs typeface=\"Gotham\" /><ns1:sym typeface=\"Gotham\" /></ns1:rPr><ns1:t>ponencia</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp>"
+        }
+      ],
+      "transition": "<ns0:transition xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" spd=\"slow\"><ns0:cover dir=\"l\" /></ns0:transition>"
+    },
+    {
+      "number": 3,
+      "part": "ppt/slides/slide3.xml",
+      "relationships": {
+        "rId1": {
+          "target": "ppt/slideLayouts/slideLayout7.xml",
+          "type": "slideLayout",
+          "external": false
+        },
+        "rId2": {
+          "target": "ppt/media/image3.png",
+          "type": "image",
+          "external": false
+        },
+        "rId3": {
+          "target": "ppt/media/image4.png",
+          "type": "image",
+          "external": false
+        },
+        "rId4": {
+          "target": "ppt/media/image5.png",
+          "type": "image",
+          "external": false
+        },
+        "rId5": {
+          "target": "ppt/media/image6.svg",
+          "type": "image",
+          "external": false
+        }
+      },
+      "shapes": [
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 2",
+            "id": "2"
+          },
+          "group_transforms": [],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 2\" id=\"2\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"18288000\" cy=\"2047875\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"2047875\" w=\"18288000\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"2047875\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"2047875\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId2\" /><ns1:stretch><ns1:fillRect l=\"0\" t=\"0\" r=\"0\" b=\"-402325\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 3",
+            "id": "3"
+          },
+          "group_transforms": [],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 3\" id=\"3\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"1028700\" y=\"399970\" /><ns1:ext cx=\"2727197\" cy=\"1302682\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"1302682\" w=\"2727197\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"2727197\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"2727197\" y=\"1302682\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"1302682\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId3\" /><ns1:stretch><ns1:fillRect l=\"-23653\" t=\"-175750\" r=\"-26226\" b=\"-143025\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 4",
+            "id": "4"
+          },
+          "group_transforms": [],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:ns3=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 4\" id=\"4\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"11246552\" y=\"665171\" /><ns1:ext cx=\"6012748\" cy=\"772280\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"772280\" w=\"6012748\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"6012748\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"6012748\" y=\"772280\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"772280\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId4\"><ns1:extLst><ns1:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><ns3:svgBlip ns2:embed=\"rId5\" /></ns1:ext></ns1:extLst></ns1:blip><ns1:stretch><ns1:fillRect l=\"0\" t=\"0\" r=\"0\" b=\"0\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        }
+      ],
+      "transition": "<ns0:transition xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" spd=\"slow\"><ns0:cover dir=\"l\" /></ns0:transition>"
+    },
+    {
+      "number": 4,
+      "part": "ppt/slides/slide4.xml",
+      "relationships": {
+        "rId1": {
+          "target": "ppt/slideLayouts/slideLayout7.xml",
+          "type": "slideLayout",
+          "external": false
+        },
+        "rId2": {
+          "target": "ppt/media/image7.png",
+          "type": "image",
+          "external": false
+        }
+      },
+      "shapes": [
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 3",
+            "id": "3"
+          },
+          "group_transforms": [
+            "<ns0:xfrm xmlns:ns0=\"http://schemas.openxmlformats.org/drawingml/2006/main\" rot=\"0\"><ns0:off x=\"0\" y=\"0\" /><ns0:ext cx=\"18288000\" cy=\"10287000\" /><ns0:chOff x=\"0\" y=\"0\" /><ns0:chExt cx=\"16256000\" cy=\"9144000\" /></ns0:xfrm>"
+          ],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 3\" id=\"3\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"16256000\" cy=\"9144000\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"9144000\" w=\"16256000\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"16256000\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"16256000\" y=\"9144000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"9144000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId2\" /><ns1:stretch><ns1:fillRect l=\"-60\" t=\"0\" r=\"-60\" b=\"0\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        }
+      ],
+      "transition": "<ns0:transition xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" spd=\"fast\"><ns0:fade /></ns0:transition>"
+    },
+    {
+      "number": 5,
+      "part": "ppt/slides/slide5.xml",
+      "relationships": {
+        "rId1": {
+          "target": "ppt/slideLayouts/slideLayout7.xml",
+          "type": "slideLayout",
+          "external": false
+        },
+        "rId2": {
+          "target": "ppt/media/image8.png",
+          "type": "image",
+          "external": false
+        }
+      },
+      "shapes": [
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 2",
+            "id": "2"
+          },
+          "group_transforms": [],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 2\" id=\"2\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"18288000\" cy=\"10287000\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"10287000\" w=\"18288000\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"18288000\" y=\"10287000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"10287000\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"0\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:blipFill><ns1:blip ns2:embed=\"rId2\" /><ns1:stretch><ns1:fillRect l=\"0\" t=\"0\" r=\"0\" b=\"0\" /></ns1:stretch></ns1:blipFill></ns0:spPr></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "Freeform 4",
+            "id": "4"
+          },
+          "group_transforms": [
+            "<ns0:xfrm xmlns:ns0=\"http://schemas.openxmlformats.org/drawingml/2006/main\" rot=\"0\"><ns0:off x=\"1028700\" y=\"7273021\" /><ns0:ext cx=\"142875\" cy=\"856998\" /><ns0:chOff x=\"0\" y=\"0\" /><ns0:chExt cx=\"37630\" cy=\"225711\" /></ns0:xfrm>"
+          ],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"Freeform 4\" id=\"4\" /><ns0:cNvSpPr /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm flipH=\"false\" flipV=\"false\" rot=\"0\"><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"37630\" cy=\"225711\" /></ns1:xfrm><ns1:custGeom><ns1:avLst /><ns1:gdLst /><ns1:ahLst /><ns1:cxnLst /><ns1:rect r=\"r\" b=\"b\" t=\"t\" l=\"l\" /><ns1:pathLst><ns1:path h=\"225711\" w=\"37630\"><ns1:moveTo><ns1:pt x=\"0\" y=\"0\" /></ns1:moveTo><ns1:lnTo><ns1:pt x=\"37630\" y=\"0\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"37630\" y=\"225711\" /></ns1:lnTo><ns1:lnTo><ns1:pt x=\"0\" y=\"225711\" /></ns1:lnTo><ns1:close /></ns1:path></ns1:pathLst></ns1:custGeom><ns1:solidFill><ns1:srgbClr val=\"F68D20\" /></ns1:solidFill></ns0:spPr></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 5",
+            "id": "5"
+          },
+          "group_transforms": [
+            "<ns0:xfrm xmlns:ns0=\"http://schemas.openxmlformats.org/drawingml/2006/main\" rot=\"0\"><ns0:off x=\"1028700\" y=\"7273021\" /><ns0:ext cx=\"142875\" cy=\"856998\" /><ns0:chOff x=\"0\" y=\"0\" /><ns0:chExt cx=\"37630\" cy=\"225711\" /></ns0:xfrm>"
+          ],
+          "text": [],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 5\" id=\"5\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"0\" y=\"-19050\" /><ns1:ext cx=\"37630\" cy=\"244761\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"ctr\" rtlCol=\"false\" tIns=\"50800\" lIns=\"50800\" bIns=\"50800\" rIns=\"50800\" /><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"ctr\"><ns1:lnSpc><ns1:spcPts val=\"3221\" /></ns1:lnSpc></ns1:pPr></ns1:p></ns0:txBody></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 6",
+            "id": "6"
+          },
+          "group_transforms": [],
+          "text": [
+            "Ponente:",
+            "Nombre del Ponente"
+          ],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 6\" id=\"6\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm rot=\"0\"><ns1:off x=\"1379454\" y=\"7290604\" /><ns1:ext cx=\"3532791\" cy=\"802783\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" rtlCol=\"false\" tIns=\"0\" lIns=\"0\" bIns=\"0\" rIns=\"0\"><ns1:spAutoFit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"3221\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"2577\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham\" /><ns1:ea typeface=\"Gotham\" /><ns1:cs typeface=\"Gotham\" /><ns1:sym typeface=\"Gotham\" /></ns1:rPr><ns1:t>Ponente:</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"3221\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"2577\" b=\"true\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham Bold\" /><ns1:ea typeface=\"Gotham Bold\" /><ns1:cs typeface=\"Gotham Bold\" /><ns1:sym typeface=\"Gotham Bold\" /></ns1:rPr><ns1:t>Nombre del Ponente</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 7",
+            "id": "7"
+          },
+          "group_transforms": [],
+          "text": [
+            "Título de la",
+            "ponencia"
+          ],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 7\" id=\"7\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm rot=\"0\"><ns1:off x=\"1028700\" y=\"4014459\" /><ns1:ext cx=\"7687866\" cy=\"2628907\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" rtlCol=\"false\" tIns=\"0\" lIns=\"0\" bIns=\"0\" rIns=\"0\"><ns1:spAutoFit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"9900\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"11000\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham\" /><ns1:ea typeface=\"Gotham\" /><ns1:cs typeface=\"Gotham\" /><ns1:sym typeface=\"Gotham\" /></ns1:rPr><ns1:t>Título de la</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"9900\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"11000\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham\" /><ns1:ea typeface=\"Gotham\" /><ns1:cs typeface=\"Gotham\" /><ns1:sym typeface=\"Gotham\" /></ns1:rPr><ns1:t>ponencia</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp>"
+        },
+        {
+          "kind": "sp",
+          "identity": {
+            "name": "TextBox 8",
+            "id": "8"
+          },
+          "group_transforms": [],
+          "text": [
+            "Sesión #00"
+          ],
+          "xml": "<ns0:sp xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><ns0:nvSpPr><ns0:cNvPr name=\"TextBox 8\" id=\"8\" /><ns0:cNvSpPr txBox=\"true\" /><ns0:nvPr /></ns0:nvSpPr><ns0:spPr><ns1:xfrm rot=\"0\"><ns1:off x=\"1498985\" y=\"2396704\" /><ns1:ext cx=\"3236313\" cy=\"683300\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" rtlCol=\"false\" tIns=\"0\" lIns=\"0\" bIns=\"0\" rIns=\"0\"><ns1:spAutoFit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr algn=\"l\"><ns1:lnSpc><ns1:spcPts val=\"5412\" /></ns1:lnSpc></ns1:pPr><ns1:r><ns1:rPr lang=\"en-US\" sz=\"4329\" b=\"true\"><ns1:solidFill><ns1:srgbClr val=\"FFFFFF\" /></ns1:solidFill><ns1:latin typeface=\"Gotham Bold\" /><ns1:ea typeface=\"Gotham Bold\" /><ns1:cs typeface=\"Gotham Bold\" /><ns1:sym typeface=\"Gotham Bold\" /></ns1:rPr><ns1:t>Sesión #00</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp>"
+        }
+      ],
+      "transition": null
+    }
+  ],
+  "slide_size_emu": {
+    "cx": "18288000",
+    "cy": "10287000"
+  },
+  "embedded_fonts": [
+    "<ns0:embeddedFont xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:font typeface=\"Gotham\" charset=\"1\" panose=\"00000000000000000000\" /><ns0:regular ns1:id=\"rId11\" /></ns0:embeddedFont>",
+    "<ns0:embeddedFont xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:font typeface=\"Gotham Bold\" charset=\"1\" panose=\"00000000000000000000\" /><ns0:regular ns1:id=\"rId12\" /></ns0:embeddedFont>"
+  ],
+  "theme_xml": [
+    "ppt/theme/theme1.xml"
+  ],
+  "master_and_layout_xml": {
+    "ppt/slideLayouts/slideLayout1.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"title\" preserve=\"1\"><ns0:cSld name=\"Title Slide\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ctrTitle\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"685800\" y=\"2130425\" /><ns1:ext cx=\"7772400\" cy=\"1470025\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Subtitle 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"subTitle\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"1371600\" y=\"3886200\" /><ns1:ext cx=\"6400800\" cy=\"1752600\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\" algn=\"ctr\"><ns1:buNone /><ns1:defRPr><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master subtitle style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Date Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Footer Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Slide Number Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout2.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"obj\" preserve=\"1\"><ns0:cSld name=\"Title and Content\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Content Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Date Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Footer Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Slide Number Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout3.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"secHead\" preserve=\"1\"><ns0:cSld name=\"Section Header\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"722313\" y=\"4406900\" /><ns1:ext cx=\"7772400\" cy=\"1362075\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"t\" /><ns1:lstStyle><ns1:lvl1pPr algn=\"l\"><ns1:defRPr sz=\"4000\" b=\"1\" cap=\"all\" /></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Text Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"722313\" y=\"2906713\" /><ns1:ext cx=\"7772400\" cy=\"1500187\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"b\" /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1800\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Date Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Footer Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Slide Number Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout4.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"twoObj\" preserve=\"1\"><ns0:cSld name=\"Two Content\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Content Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph sz=\"half\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"1600200\" /><ns1:ext cx=\"4038600\" cy=\"4525963\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr><ns1:defRPr sz=\"2800\" /></ns1:lvl1pPr><ns1:lvl2pPr><ns1:defRPr sz=\"2400\" /></ns1:lvl2pPr><ns1:lvl3pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl3pPr><ns1:lvl4pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl4pPr><ns1:lvl5pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl5pPr><ns1:lvl6pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl6pPr><ns1:lvl7pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl7pPr><ns1:lvl8pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl8pPr><ns1:lvl9pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Content Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph sz=\"half\" idx=\"2\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"4648200\" y=\"1600200\" /><ns1:ext cx=\"4038600\" cy=\"4525963\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr><ns1:defRPr sz=\"2800\" /></ns1:lvl1pPr><ns1:lvl2pPr><ns1:defRPr sz=\"2400\" /></ns1:lvl2pPr><ns1:lvl3pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl3pPr><ns1:lvl4pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl4pPr><ns1:lvl5pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl5pPr><ns1:lvl6pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl6pPr><ns1:lvl7pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl7pPr><ns1:lvl8pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl8pPr><ns1:lvl9pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Date Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Footer Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"7\" name=\"Slide Number Placeholder 6\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout5.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"twoTxTwoObj\" preserve=\"1\"><ns0:cSld name=\"Comparison\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr><ns1:defRPr /></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Text Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"1535113\" /><ns1:ext cx=\"4040188\" cy=\"639762\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"b\" /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2400\" b=\"1\" /></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" b=\"1\" /></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1800\" b=\"1\" /></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Content Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph sz=\"half\" idx=\"2\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"2174875\" /><ns1:ext cx=\"4040188\" cy=\"3951288\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr><ns1:defRPr sz=\"2400\" /></ns1:lvl1pPr><ns1:lvl2pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl2pPr><ns1:lvl3pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl3pPr><ns1:lvl4pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl4pPr><ns1:lvl5pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl5pPr><ns1:lvl6pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl6pPr><ns1:lvl7pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl7pPr><ns1:lvl8pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl8pPr><ns1:lvl9pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Text Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" sz=\"quarter\" idx=\"3\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"4645025\" y=\"1535113\" /><ns1:ext cx=\"4041775\" cy=\"639762\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"b\" /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2400\" b=\"1\" /></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" b=\"1\" /></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1800\" b=\"1\" /></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1600\" b=\"1\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Content Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph sz=\"quarter\" idx=\"4\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"4645025\" y=\"2174875\" /><ns1:ext cx=\"4041775\" cy=\"3951288\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr><ns1:defRPr sz=\"2400\" /></ns1:lvl1pPr><ns1:lvl2pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl2pPr><ns1:lvl3pPr><ns1:defRPr sz=\"1800\" /></ns1:lvl3pPr><ns1:lvl4pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl4pPr><ns1:lvl5pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl5pPr><ns1:lvl6pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl6pPr><ns1:lvl7pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl7pPr><ns1:lvl8pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl8pPr><ns1:lvl9pPr><ns1:defRPr sz=\"1600\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"7\" name=\"Date Placeholder 6\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"8\" name=\"Footer Placeholder 7\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"9\" name=\"Slide Number Placeholder 8\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout6.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"titleOnly\" preserve=\"1\"><ns0:cSld name=\"Title Only\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Date Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Footer Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Slide Number Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout7.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"blank\" preserve=\"1\"><ns0:cSld name=\"Blank\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Date Placeholder 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Footer Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Slide Number Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout8.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"objTx\" preserve=\"1\"><ns0:cSld name=\"Content with Caption\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"273050\" /><ns1:ext cx=\"3008313\" cy=\"1162050\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"b\" /><ns1:lstStyle><ns1:lvl1pPr algn=\"l\"><ns1:defRPr sz=\"2000\" b=\"1\" /></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Content Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"3575050\" y=\"273050\" /><ns1:ext cx=\"5111750\" cy=\"5853113\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr><ns1:defRPr sz=\"3200\" /></ns1:lvl1pPr><ns1:lvl2pPr><ns1:defRPr sz=\"2800\" /></ns1:lvl2pPr><ns1:lvl3pPr><ns1:defRPr sz=\"2400\" /></ns1:lvl3pPr><ns1:lvl4pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl4pPr><ns1:lvl5pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl5pPr><ns1:lvl6pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl6pPr><ns1:lvl7pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl7pPr><ns1:lvl8pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl8pPr><ns1:lvl9pPr><ns1:defRPr sz=\"2000\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Text Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" sz=\"half\" idx=\"2\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"1435100\" /><ns1:ext cx=\"3008313\" cy=\"4691063\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\" /></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1200\" /></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1000\" /></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Date Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Footer Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"7\" name=\"Slide Number Placeholder 6\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout9.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"picTx\" preserve=\"1\"><ns0:cSld name=\"Picture with Caption\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"1792288\" y=\"4800600\" /><ns1:ext cx=\"5486400\" cy=\"566738\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr anchor=\"b\" /><ns1:lstStyle><ns1:lvl1pPr algn=\"l\"><ns1:defRPr sz=\"2000\" b=\"1\" /></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Picture Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"pic\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"1792288\" y=\"612775\" /><ns1:ext cx=\"5486400\" cy=\"4114800\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"3200\" /></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2800\" /></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2400\" /></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" /></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" /></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" /></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" /></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" /></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"2000\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Text Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" sz=\"half\" idx=\"2\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"1792288\" y=\"5367338\" /><ns1:ext cx=\"5486400\" cy=\"804862\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr /><ns1:lstStyle><ns1:lvl1pPr marL=\"0\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1400\" /></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1200\" /></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"1000\" /></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" indent=\"0\"><ns1:buNone /><ns1:defRPr sz=\"900\" /></ns1:lvl9pPr></ns1:lstStyle><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Date Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Footer Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"7\" name=\"Slide Number Placeholder 6\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout10.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"vertTx\" preserve=\"1\"><ns0:cSld name=\"Title and Vertical Text\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Vertical Text Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" orient=\"vert\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr vert=\"eaVert\" /><ns1:lstStyle /><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Date Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Footer Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Slide Number Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideLayouts/slideLayout11.xml": "<ns0:sldLayout xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" type=\"vertTitleAndTx\" preserve=\"1\"><ns0:cSld name=\"Vertical Title and Text\"><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Vertical Title 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" orient=\"vert\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"6629400\" y=\"274638\" /><ns1:ext cx=\"2057400\" cy=\"5851525\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"eaVert\" /><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Vertical Text Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" orient=\"vert\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"274638\" /><ns1:ext cx=\"6019800\" cy=\"5851525\" /></ns1:xfrm></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"eaVert\" /><ns1:lstStyle /><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Date Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"10\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Footer Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"11\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Slide Number Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"12\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr /><ns0:txBody><ns1:bodyPr /><ns1:lstStyle /><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMapOvr><ns1:masterClrMapping /></ns0:clrMapOvr></ns0:sldLayout>",
+    "ppt/slideMasters/slideMaster1.xml": "<ns0:sldMaster xmlns:ns0=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:ns1=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:ns2=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><ns0:cSld><ns0:bg><ns0:bgRef idx=\"1001\"><ns1:schemeClr val=\"bg1\" /></ns0:bgRef></ns0:bg><ns0:spTree><ns0:nvGrpSpPr><ns0:cNvPr id=\"1\" name=\"\" /><ns0:cNvGrpSpPr /><ns0:nvPr /></ns0:nvGrpSpPr><ns0:grpSpPr><ns1:xfrm><ns1:off x=\"0\" y=\"0\" /><ns1:ext cx=\"0\" cy=\"0\" /><ns1:chOff x=\"0\" y=\"0\" /><ns1:chExt cx=\"0\" cy=\"0\" /></ns1:xfrm></ns0:grpSpPr><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"2\" name=\"Title Placeholder 1\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"title\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"274638\" /><ns1:ext cx=\"8229600\" cy=\"1143000\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"horz\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" rtlCol=\"0\" anchor=\"ctr\"><ns1:normAutofit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master title style</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"3\" name=\"Text Placeholder 2\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"body\" idx=\"1\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"1600200\" /><ns1:ext cx=\"8229600\" cy=\"4525963\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"horz\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" rtlCol=\"0\"><ns1:normAutofit /></ns1:bodyPr><ns1:lstStyle /><ns1:p><ns1:pPr lvl=\"0\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Click to edit Master text styles</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"1\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Second level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"2\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Third level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"3\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fourth level</ns1:t></ns1:r></ns1:p><ns1:p><ns1:pPr lvl=\"4\" /><ns1:r><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:t>Fifth level</ns1:t></ns1:r><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"4\" name=\"Date Placeholder 3\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"dt\" sz=\"half\" idx=\"2\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"457200\" y=\"6356350\" /><ns1:ext cx=\"2133600\" cy=\"365125\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"horz\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" rtlCol=\"0\" anchor=\"ctr\" /><ns1:lstStyle><ns1:lvl1pPr algn=\"l\"><ns1:defRPr sz=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:fld id=\"{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}\" type=\"datetimeFigureOut\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>8/1/2011</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"5\" name=\"Footer Placeholder 4\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"ftr\" sz=\"quarter\" idx=\"3\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"3124200\" y=\"6356350\" /><ns1:ext cx=\"2895600\" cy=\"365125\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"horz\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" rtlCol=\"0\" anchor=\"ctr\" /><ns1:lstStyle><ns1:lvl1pPr algn=\"ctr\"><ns1:defRPr sz=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp><ns0:sp><ns0:nvSpPr><ns0:cNvPr id=\"6\" name=\"Slide Number Placeholder 5\" /><ns0:cNvSpPr><ns1:spLocks noGrp=\"1\" /></ns0:cNvSpPr><ns0:nvPr><ns0:ph type=\"sldNum\" sz=\"quarter\" idx=\"4\" /></ns0:nvPr></ns0:nvSpPr><ns0:spPr><ns1:xfrm><ns1:off x=\"6553200\" y=\"6356350\" /><ns1:ext cx=\"2133600\" cy=\"365125\" /></ns1:xfrm><ns1:prstGeom prst=\"rect\"><ns1:avLst /></ns1:prstGeom></ns0:spPr><ns0:txBody><ns1:bodyPr vert=\"horz\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" rtlCol=\"0\" anchor=\"ctr\" /><ns1:lstStyle><ns1:lvl1pPr algn=\"r\"><ns1:defRPr sz=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\"><ns1:tint val=\"75000\" /></ns1:schemeClr></ns1:solidFill></ns1:defRPr></ns1:lvl1pPr></ns1:lstStyle><ns1:p><ns1:fld id=\"{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}\" type=\"slidenum\"><ns1:rPr lang=\"en-US\" smtClean=\"0\" /><ns1:pPr /><ns1:t>‹#›</ns1:t></ns1:fld><ns1:endParaRPr lang=\"en-US\" /></ns1:p></ns0:txBody></ns0:sp></ns0:spTree></ns0:cSld><ns0:clrMap bg1=\"lt1\" tx1=\"dk1\" bg2=\"lt2\" tx2=\"dk2\" accent1=\"accent1\" accent2=\"accent2\" accent3=\"accent3\" accent4=\"accent4\" accent5=\"accent5\" accent6=\"accent6\" hlink=\"hlink\" folHlink=\"folHlink\" /><ns0:sldLayoutIdLst><ns0:sldLayoutId id=\"2147483649\" ns2:id=\"rId1\" /><ns0:sldLayoutId id=\"2147483650\" ns2:id=\"rId2\" /><ns0:sldLayoutId id=\"2147483651\" ns2:id=\"rId3\" /><ns0:sldLayoutId id=\"2147483652\" ns2:id=\"rId4\" /><ns0:sldLayoutId id=\"2147483653\" ns2:id=\"rId5\" /><ns0:sldLayoutId id=\"2147483654\" ns2:id=\"rId6\" /><ns0:sldLayoutId id=\"2147483655\" ns2:id=\"rId7\" /><ns0:sldLayoutId id=\"2147483656\" ns2:id=\"rId8\" /><ns0:sldLayoutId id=\"2147483657\" ns2:id=\"rId9\" /><ns0:sldLayoutId id=\"2147483658\" ns2:id=\"rId10\" /><ns0:sldLayoutId id=\"2147483659\" ns2:id=\"rId11\" /></ns0:sldLayoutIdLst><ns0:txStyles><ns0:titleStyle><ns1:lvl1pPr algn=\"ctr\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"0\" /></ns1:spcBef><ns1:buNone /><ns1:defRPr sz=\"4400\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mj-lt\" /><ns1:ea typeface=\"+mj-ea\" /><ns1:cs typeface=\"+mj-cs\" /></ns1:defRPr></ns1:lvl1pPr></ns0:titleStyle><ns0:bodyStyle><ns1:lvl1pPr marL=\"342900\" indent=\"-342900\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"•\" /><ns1:defRPr sz=\"3200\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl1pPr><ns1:lvl2pPr marL=\"742950\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"–\" /><ns1:defRPr sz=\"2800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl2pPr><ns1:lvl3pPr marL=\"1143000\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"•\" /><ns1:defRPr sz=\"2400\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1600200\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"–\" /><ns1:defRPr sz=\"2000\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl4pPr><ns1:lvl5pPr marL=\"2057400\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"»\" /><ns1:defRPr sz=\"2000\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2514600\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"•\" /><ns1:defRPr sz=\"2000\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2971800\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"•\" /><ns1:defRPr sz=\"2000\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3429000\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"•\" /><ns1:defRPr sz=\"2000\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3886200\" indent=\"-228600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:spcBef><ns1:spcPct val=\"20000\" /></ns1:spcBef><ns1:buFont typeface=\"Arial\" pitchFamily=\"34\" charset=\"0\" /><ns1:buChar char=\"•\" /><ns1:defRPr sz=\"2000\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl9pPr></ns0:bodyStyle><ns0:otherStyle><ns1:defPPr><ns1:defRPr lang=\"en-US\" /></ns1:defPPr><ns1:lvl1pPr marL=\"0\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl1pPr><ns1:lvl2pPr marL=\"457200\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl2pPr><ns1:lvl3pPr marL=\"914400\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl3pPr><ns1:lvl4pPr marL=\"1371600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl4pPr><ns1:lvl5pPr marL=\"1828800\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl5pPr><ns1:lvl6pPr marL=\"2286000\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl6pPr><ns1:lvl7pPr marL=\"2743200\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl7pPr><ns1:lvl8pPr marL=\"3200400\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl8pPr><ns1:lvl9pPr marL=\"3657600\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" latinLnBrk=\"0\" hangingPunct=\"1\"><ns1:defRPr sz=\"1800\" kern=\"1200\"><ns1:solidFill><ns1:schemeClr val=\"tx1\" /></ns1:solidFill><ns1:latin typeface=\"+mn-lt\" /><ns1:ea typeface=\"+mn-ea\" /><ns1:cs typeface=\"+mn-cs\" /></ns1:defRPr></ns1:lvl9pPr></ns0:otherStyle></ns0:txStyles></ns0:sldMaster>"
+  },
+  "external_relationships": [],
+  "source_unchanged": true
+}

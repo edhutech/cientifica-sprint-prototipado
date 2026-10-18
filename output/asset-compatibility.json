@@ -1,0 +1,60 @@
+{
+  "browser": "Chromium 155.0.8059.39 Built from source for Fedora release 44 (Forty Four)",
+  "method": "HTML img load events and natural dimensions on embedded data URIs",
+  "results": [
+    {
+      "name": "image1.png",
+      "ok": true,
+      "width": 3072,
+      "height": 1728
+    },
+    {
+      "name": "image2.png",
+      "ok": true,
+      "width": 3072,
+      "height": 1728
+    },
+    {
+      "name": "image3.png",
+      "ok": true,
+      "width": 3072,
+      "height": 1728
+    },
+    {
+      "name": "image4.png",
+      "ok": true,
+      "width": 623,
+      "height": 831
+    },
+    {
+      "name": "image5.png",
+      "ok": true,
+      "width": 1417,
+      "height": 182
+    },
+    {
+      "name": "image6.svg",
+      "ok": true,
+      "width": 1417,
+      "height": 182
+    },
+    {
+      "name": "image7.png",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "image8.png",
+      "ok": true,
+      "width": 3072,
+      "height": 1728
+    }
+  ],
+  "svg_element_types": [
+    "g",
+    "path",
+    "svg"
+  ],
+  "svg_external_hrefs": []
+}

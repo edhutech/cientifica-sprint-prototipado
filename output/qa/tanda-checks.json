@@ -1,0 +1,37 @@
+[
+  {
+    "screen": 1,
+    "text": "Elige tu servicio\nCorte clásico\n\n30 min · S/ 35\n\nBarba\n\n20 min · S/ 25\n\nCorte + barba\n\n50 min · S/ 55\n\nContinuar\n→",
+    "overflow": false,
+    "outside": [],
+    "font": true
+  },
+  {
+    "screen": 2,
+    "text": "Elige tu horario\n\nNoviembre 2026\n\nJue\n19\nVie\n20\nSáb\n21\n10:00\n11:00\n16:00\n17:00\n\nCorte clásico · 30 min\n\nContinuar\n→",
+    "overflow": false,
+    "outside": [],
+    "font": true
+  },
+  {
+    "screen": 3,
+    "text": "Tus datos\nNombre\n\nAlex Rivera\n\nCorreo\n\nalex@example.com\n\nCorte clásico\n\nVie 20 nov · 16:00\n\nRevisar reserva\n→",
+    "overflow": false,
+    "outside": [],
+    "font": true
+  },
+  {
+    "screen": 4,
+    "text": "Revisa tu reserva\nCorte clásico\n\n30 min · S/ 35\n\nVie 20 nov 2026\n\n16:00\n\nAlex Rivera\n\nalex@example.com\n\nConfirmar reserva\n→",
+    "overflow": false,
+    "outside": [],
+    "font": true
+  },
+  {
+    "screen": 5,
+    "text": "¡Reserva realizada!\nCorte clásico\n\nVie 20 nov · 16:00\n\nAlex Rivera\n\nReserva de demostración.\nNo se registró una cita real.\n\nVolver al inicio\n↺",
+    "overflow": false,
+    "outside": [],
+    "font": true
+  }
+]

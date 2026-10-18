@@ -1,0 +1,125 @@
+/* All geometry is relative to the 1920 × 1080 institutional canvas. */
+:root {
+  --bg-primary: #000000;
+  --text-primary: #000000;
+  --brand-blue: #00358e;
+  --brand-orange: #f68d20;
+  --font-body: "Proof Montserrat", sans-serif;
+  --font-heading: "Proof Montserrat", sans-serif;
+}
+html, body { width: 100%; height: 100%; overflow: hidden; }
+.slide { padding: 0; }
+.canvas {
+  position: relative;
+  flex: none;
+  width: min(100vw, calc(100vh * 16 / 9));
+  width: min(100vw, calc(100dvh * 16 / 9));
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  container-type: inline-size;
+  background: #ffffff;
+}
+.cover { color: #ffffff; }
+#cover-title {
+  position: absolute;
+  left: 5.625%;
+  top: 39.024584%;
+  width: 42.037763%;
+  font-size: clamp(28px, 5.833333cqw, 112px);
+  font-weight: 400;
+  line-height: 1.15;
+  padding-bottom: 0.625cqw;
+  letter-spacing: 0;
+}
+.speaker {
+  position: absolute;
+  left: 5.625%;
+  top: 70.701089%;
+  width: 42.037763%;
+  min-height: 8.330883%;
+  border-left: 0.78125cqw solid var(--brand-orange);
+  padding-left: 1.15083cqw;
+  display: grid;
+  align-content: center;
+  row-gap: 0.208333cqw;
+  font-size: clamp(16px, 1.789583cqw, 34.36px);
+  line-height: 1.2;
+}
+#speaker-name { font-weight: 700; }
+#institutional-header {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 19.9074074%;
+}
+.header-photo { position: absolute; inset: 0; overflow: hidden; }
+.slide .institutional-fill {
+  position: absolute;
+  max-width: none;
+  max-height: none;
+  border-radius: 0;
+  object-fit: fill;
+}
+.header-photo img { left: 0; top: 0; width: 100%; height: 502.325%; }
+.sprint-logo {
+  position: absolute;
+  left: 5.625%;
+  top: 19.530977%;
+  width: 14.912495%;
+  height: 63.6114%;
+  overflow: hidden;
+}
+.sprint-logo img { left: -23.653%; top: -175.75%; width: 149.879%; height: 418.775%; }
+.signature {
+  position: absolute;
+  display: block;
+  left: 61.496894%;
+  top: 32.481038%;
+  width: 32.878106%;
+  height: 37.711288%;
+}
+.slide .signature img { display: block; width: 100%; height: 100%; border-radius: 0; object-fit: fill; }
+.body-content {
+  position: absolute;
+  left: 5.625%;
+  right: 5.625%;
+  top: 24.907407%;
+  bottom: 6.666667%;
+}
+#education-title {
+  color: var(--brand-blue);
+  font-size: clamp(26px, 3.333333cqw, 64px);
+  line-height: 1.15;
+  font-weight: 700;
+}
+.specimen-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3.75cqw;
+  margin-top: 3.020833cqw;
+}
+.text-specimen { display: grid; align-content: start; gap: 1.875cqw; }
+.text-specimen h2 {
+  font-size: clamp(22px, 2.1875cqw, 42px);
+  font-weight: 700;
+  line-height: 1.2;
+}
+.text-specimen p {
+  font-size: clamp(20px, 1.875cqw, 36px);
+  line-height: 1.45;
+}
+.resource-specimen {
+  min-height: 23.4375cqw;
+  border: 0.104167cqw solid var(--brand-blue);
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  gap: 1.25cqw;
+  padding: 2.083333cqw;
+  text-align: center;
+  color: var(--brand-blue);
+  font-size: clamp(20px, 1.875cqw, 36px);
+  line-height: 1.45;
+}
+#resource-note { font-size: clamp(18px, 1.666667cqw, 32px); }
+/* The two required viewports use the same 16:9 composition.
+   No workshop content, animations, or navigation are introduced here. */

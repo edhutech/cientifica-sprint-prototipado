@@ -1,0 +1,17 @@
+[
+  {
+    "file": "Montserrat-Regular.ttf",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf",
+    "sha256": "84f3d3275dfb159dd311c61828fd754a82ec31c377120518e2cd3e7d34394e96"
+  },
+  {
+    "file": "Montserrat-Bold.ttf",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf",
+    "sha256": "247f052d2f5b84a5bbe7831c3b08a71ca391ff54f1dfb9be88a3d3da569e3a38"
+  },
+  {
+    "file": "OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/OFL.txt",
+    "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "source_unchanged": true,
+  "original_assets_unchanged": true,
+  "contrast_ratios": {
+    "#00358E on #FFFFFF": 11.053562299392942,
+    "#000000 on #FFFFFF": 21.0,
+    "#F68D20 on #FFFFFF": 2.4001718429380836,
+    "#F68D20 on #00358E": 4.605321211443812
+  },
+  "cover_min_white_text_contrast_over_entire_text_boxes": {
+    "cover-title": 19.920579292113906,
+    "speaker-label": 19.90961474070333,
+    "speaker-name": 19.20675180615286
+  },
+  "header_comparison": {
+    "region": [
+      0,
+      0,
+      1920,
+      215
+    ],
+    "reference": "output/template-slide-3.png (LibreOffice, not PowerPoint)",
+    "mean_absolute_rgb_difference_0_255": 3.497382913436693,
+    "interpretation": "Corroborative only; resampling, antialiasing and vector rendering differ. No claim of pixel-identical PowerPoint output."
+  }
+}

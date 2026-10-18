@@ -1,0 +1,16 @@
+{
+  "protected_files": 37,
+  "modified_originals": [],
+  "deck_sha256": "cf7fbd5f71593b1f835caa7317ca98b8230d19fd269f8b2ffed34a7f8a01f461",
+  "deck_bytes": 14424492,
+  "contrast_on_white": {
+    "#00358E": 11.053562299392942,
+    "#000000": 21.0,
+    "#444444": 9.739769120526205,
+    "#174C40": 9.7936737821268,
+    "#152C27": 14.773590406677592
+  },
+  "slides": 18,
+  "minutes": 120,
+  "internal_advances": 9
+}

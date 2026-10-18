@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "html-slides": {
+      "source": "proyecto26/slides-ai-plugin",
+      "sourceType": "github",
+      "skillPath": "skills/html-slides/SKILL.md",
+      "computedHash": "095df4588755ef76268ded1897f55b5ccddbbe80837f0a98ceaa0ffcfdf2a7ca"
+    }
+  }
+}

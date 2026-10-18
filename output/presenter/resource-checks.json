@@ -1,0 +1,564 @@
+{
+  "source": "User-supplied files; original web URLs not supplied.",
+  "browser": "Chromium 155.0.8059.39 Built from source for Fedora release 44 (Forty Four)",
+  "originals_unchanged": true,
+  "resources": [
+    {
+      "file": "assets/content/presenter/logos/CENTRO-INNOVACION-DESARROLLO.webp",
+      "name": "CENTRO-INNOVACION-DESARROLLO.webp",
+      "bytes": 3372,
+      "sha256": "7e9e8b23ac2d78f3afe958b6085dc3dbe30cd46630a02737243a0bb645c68af3",
+      "mime": "image/webp",
+      "width": 200,
+      "height": 140,
+      "format": "WEBP",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/HUB-UDEP_logo.svg",
+      "name": "HUB-UDEP_logo.svg",
+      "bytes": 38854,
+      "sha256": "8236ee13fa02668cd9177f1f13b0daef877fd650e3e6d296f34a04a6c504769e",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "1214",
+        "height": "194",
+        "viewBox": "0 0 1214 194",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/LOGOTIPO-NEXUM.svg",
+      "name": "LOGOTIPO-NEXUM.svg",
+      "bytes": 19347,
+      "sha256": "0054b590924c5623d12996f9fbc88ea94f93651a00ed29f43537e89a8b0a64c9",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "619",
+        "height": "151",
+        "viewBox": "0 0 619 151",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/LetyMind ico.svg",
+      "name": "LetyMind ico.svg",
+      "bytes": 1267,
+      "sha256": "7e10af8b6d28d41d5bd5b8683770bb5e9ad76f60292c22a06c7ecf7a67442252",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "49",
+        "height": "46",
+        "viewBox": "0 0 49 46",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/LetyMind-Full-name.svg",
+      "name": "LetyMind-Full-name.svg",
+      "bytes": 6295,
+      "sha256": "60ad92b2ad0e0a502f5cf43128abdf5a74eaf0d8133853c95c10a84c5971e73a",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "373",
+        "height": "80",
+        "viewBox": "0 0 373 80",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/Logo Fundación Romero.svg",
+      "name": "Logo Fundación Romero.svg",
+      "bytes": 21730,
+      "sha256": "84bb8cbd071adc08f938159d20b3316382dbce59720a2f95c4f6b16ecc1d262b",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "1000",
+        "height": "207",
+        "viewBox": "0 0 1000 207",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/MS_Startups_Celebration_Badge_Dark.webp",
+      "name": "MS_Startups_Celebration_Badge_Dark.webp",
+      "bytes": 39072,
+      "sha256": "0fd932798cf32cb9b7f19ca9c86bb386c6896ca300b0660080fc558ed1e99c64",
+      "mime": "image/webp",
+      "width": 786,
+      "height": 336,
+      "format": "WEBP",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/ai_playground_per_logo.jpeg",
+      "name": "ai_playground_per_logo.jpeg",
+      "bytes": 3338,
+      "sha256": "644a08341ac428d635cfe0cd35b919084d41719bf1ab1ec57fab90d1d577d2d1",
+      "mime": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "format": "JPEG",
+      "mode": "RGB",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/basf-new.png",
+      "name": "basf-new.png",
+      "bytes": 21920,
+      "sha256": "351211ba44456b40e411e592a2399c3ac5809d1899de007f9efaded7ee50486f",
+      "mime": "image/png",
+      "width": 736,
+      "height": 414,
+      "format": "PNG",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/fundacion romero.webp",
+      "name": "fundacion romero.webp",
+      "bytes": 3338,
+      "sha256": "e8ad5563990d69520f799489b34b63306f8eea98e15c69e6b45386ad3f523851",
+      "mime": "image/webp",
+      "width": 614,
+      "height": 58,
+      "format": "WEBP",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/guayerd ico.webp",
+      "name": "guayerd ico.webp",
+      "bytes": 6564,
+      "sha256": "dff59b3e8528c6002e2b17f74f12027a29df46d81b37542e40d090e37a9d3e1b",
+      "mime": "image/webp",
+      "width": 474,
+      "height": 474,
+      "format": "WEBP",
+      "mode": "RGB",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/guayerd.svg",
+      "name": "guayerd.svg",
+      "bytes": 3207,
+      "sha256": "caa945bb32524a39aad6c34bf308036b647763a2e999958325b47e985ef9aeb0",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "viewBox": "0 0 369.67 95.88"
+      },
+      "element_types": [
+        "defs",
+        "g",
+        "path",
+        "style",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/logo-horizontal-blanco-web.fw-455x128.png",
+      "name": "logo-horizontal-blanco-web.fw-455x128.png",
+      "bytes": 4471,
+      "sha256": "3d6faf5332f9919358cc40877ace498760afd29ef9fcbc26a51c5d50d7afccc5",
+      "mime": "image/png",
+      "width": 455,
+      "height": 128,
+      "format": "PNG",
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "file": "assets/content/presenter/logos/logo-nutrih-azul 1.svg",
+      "name": "logo-nutrih-azul 1.svg",
+      "bytes": 6714,
+      "sha256": "e2c0eb44642a7cde3e14d7fa72504e5b3f5fe6a7657365a41af5119cc04cfee2",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "400",
+        "height": "400",
+        "viewBox": "0 0 400 400",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/logos/logo-startup-peru 2.svg",
+      "name": "logo-startup-peru 2.svg",
+      "bytes": 6202,
+      "sha256": "7bb7cabf6acd136ecb2666405de8621bfd70b1dd4388278f9e8e7c0c9bf6ffb4",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "324",
+        "height": "60",
+        "viewBox": "0 0 324 60",
+        "fill": "none"
+      },
+      "element_types": [
+        "clipPath",
+        "defs",
+        "g",
+        "path",
+        "rect",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": [
+        "#clip0_2233_1868"
+      ]
+    },
+    {
+      "file": "assets/content/presenter/logos/proinnovate-logo-removebg-preview 2.svg",
+      "name": "proinnovate-logo-removebg-preview 2.svg",
+      "bytes": 36840,
+      "sha256": "f41a3708238942280aa99f6b3402923a67053c9374bec3d3f914b61e99e484bf",
+      "mime": "image/svg+xml",
+      "svg_attributes": {
+        "width": "396",
+        "height": "127",
+        "viewBox": "0 0 396 127",
+        "fill": "none"
+      },
+      "element_types": [
+        "path",
+        "svg"
+      ],
+      "external_references": [],
+      "css_urls": []
+    },
+    {
+      "file": "assets/content/presenter/photo/perfil.png",
+      "name": "perfil.png",
+      "bytes": 46178,
+      "sha256": "e4797ab17d52a25c7714e302d99e61af11650af3f39a560dc68d52bc60e432fb",
+      "mime": "image/png",
+      "width": 400,
+      "height": 400,
+      "format": "PNG",
+      "mode": "P",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "decode_ok": true
+    }
+  ],
+  "checks": [
+    {
+      "theme": "light",
+      "screenshot": "output/presenter/logos-contact-sheet-light.png",
+      "images": [
+        {
+          "name": "CENTRO-INNOVACION-DESARROLLO.webp",
+          "loaded": true,
+          "width": 200,
+          "height": 140,
+          "embedded": true
+        },
+        {
+          "name": "HUB-UDEP_logo.svg",
+          "loaded": true,
+          "width": 1214,
+          "height": 194,
+          "embedded": true
+        },
+        {
+          "name": "LOGOTIPO-NEXUM.svg",
+          "loaded": true,
+          "width": 619,
+          "height": 151,
+          "embedded": true
+        },
+        {
+          "name": "LetyMind ico.svg",
+          "loaded": true,
+          "width": 49,
+          "height": 46,
+          "embedded": true
+        },
+        {
+          "name": "LetyMind-Full-name.svg",
+          "loaded": true,
+          "width": 373,
+          "height": 80,
+          "embedded": true
+        },
+        {
+          "name": "Logo Fundación Romero.svg",
+          "loaded": true,
+          "width": 1000,
+          "height": 207,
+          "embedded": true
+        },
+        {
+          "name": "MS_Startups_Celebration_Badge_Dark.webp",
+          "loaded": true,
+          "width": 786,
+          "height": 336,
+          "embedded": true
+        },
+        {
+          "name": "ai_playground_per_logo.jpeg",
+          "loaded": true,
+          "width": 200,
+          "height": 200,
+          "embedded": true
+        },
+        {
+          "name": "basf-new.png",
+          "loaded": true,
+          "width": 736,
+          "height": 414,
+          "embedded": true
+        },
+        {
+          "name": "fundacion romero.webp",
+          "loaded": true,
+          "width": 614,
+          "height": 58,
+          "embedded": true
+        },
+        {
+          "name": "guayerd ico.webp",
+          "loaded": true,
+          "width": 474,
+          "height": 474,
+          "embedded": true
+        },
+        {
+          "name": "guayerd.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 78,
+          "embedded": true
+        },
+        {
+          "name": "logo-horizontal-blanco-web.fw-455x128.png",
+          "loaded": true,
+          "width": 455,
+          "height": 128,
+          "embedded": true
+        },
+        {
+          "name": "logo-nutrih-azul 1.svg",
+          "loaded": true,
+          "width": 400,
+          "height": 400,
+          "embedded": true
+        },
+        {
+          "name": "logo-startup-peru 2.svg",
+          "loaded": true,
+          "width": 324,
+          "height": 60,
+          "embedded": true
+        },
+        {
+          "name": "proinnovate-logo-removebg-preview 2.svg",
+          "loaded": true,
+          "width": 396,
+          "height": 127,
+          "embedded": true
+        },
+        {
+          "name": "perfil.png",
+          "loaded": true,
+          "width": 400,
+          "height": 400,
+          "embedded": true
+        }
+      ]
+    },
+    {
+      "theme": "dark",
+      "screenshot": "output/presenter/logos-contact-sheet-dark.png",
+      "images": [
+        {
+          "name": "CENTRO-INNOVACION-DESARROLLO.webp",
+          "loaded": true,
+          "width": 200,
+          "height": 140,
+          "embedded": true
+        },
+        {
+          "name": "HUB-UDEP_logo.svg",
+          "loaded": true,
+          "width": 1214,
+          "height": 194,
+          "embedded": true
+        },
+        {
+          "name": "LOGOTIPO-NEXUM.svg",
+          "loaded": true,
+          "width": 619,
+          "height": 151,
+          "embedded": true
+        },
+        {
+          "name": "LetyMind ico.svg",
+          "loaded": true,
+          "width": 49,
+          "height": 46,
+          "embedded": true
+        },
+        {
+          "name": "LetyMind-Full-name.svg",
+          "loaded": true,
+          "width": 373,
+          "height": 80,
+          "embedded": true
+        },
+        {
+          "name": "Logo Fundación Romero.svg",
+          "loaded": true,
+          "width": 1000,
+          "height": 207,
+          "embedded": true
+        },
+        {
+          "name": "MS_Startups_Celebration_Badge_Dark.webp",
+          "loaded": true,
+          "width": 786,
+          "height": 336,
+          "embedded": true
+        },
+        {
+          "name": "ai_playground_per_logo.jpeg",
+          "loaded": true,
+          "width": 200,
+          "height": 200,
+          "embedded": true
+        },
+        {
+          "name": "basf-new.png",
+          "loaded": true,
+          "width": 736,
+          "height": 414,
+          "embedded": true
+        },
+        {
+          "name": "fundacion romero.webp",
+          "loaded": true,
+          "width": 614,
+          "height": 58,
+          "embedded": true
+        },
+        {
+          "name": "guayerd ico.webp",
+          "loaded": true,
+          "width": 474,
+          "height": 474,
+          "embedded": true
+        },
+        {
+          "name": "guayerd.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 78,
+          "embedded": true
+        },
+        {
+          "name": "logo-horizontal-blanco-web.fw-455x128.png",
+          "loaded": true,
+          "width": 455,
+          "height": 128,
+          "embedded": true
+        },
+        {
+          "name": "logo-nutrih-azul 1.svg",
+          "loaded": true,
+          "width": 400,
+          "height": 400,
+          "embedded": true
+        },
+        {
+          "name": "logo-startup-peru 2.svg",
+          "loaded": true,
+          "width": 324,
+          "height": 60,
+          "embedded": true
+        },
+        {
+          "name": "proinnovate-logo-removebg-preview 2.svg",
+          "loaded": true,
+          "width": 396,
+          "height": 127,
+          "embedded": true
+        },
+        {
+          "name": "perfil.png",
+          "loaded": true,
+          "width": 400,
+          "height": 400,
+          "embedded": true
+        }
+      ]
+    }
+  ]
+}
